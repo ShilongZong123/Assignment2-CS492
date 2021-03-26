@@ -1,0 +1,1 @@
+cmd_/home/yuanpx/space/cs-492-2021s-assignment2-ShilongZong123-main/driver/Module.symvers := sed 's/ko$$/o/' /home/yuanpx/space/cs-492-2021s-assignment2-ShilongZong123-main/driver/modules.order | scripts/mod/modpost -m -a   -o /home/yuanpx/space/cs-492-2021s-assignment2-ShilongZong123-main/driver/Module.symvers -e -i Module.symvers   -T -
